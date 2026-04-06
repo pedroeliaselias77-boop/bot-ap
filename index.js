@@ -129,4 +129,4 @@ client.on('messageCreate', async message => {
   });
 });
 
-client.login('SEU_TOKEN_AQUI');
+client.login('MTQ5MDU5OTE0NjU0MzkwNjg4Nw.GghZOc.4yieJYElWwqv3y-_Pxpjo6J0yOm-STfI6UkRnI');
